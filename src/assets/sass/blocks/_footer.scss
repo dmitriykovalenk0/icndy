@@ -1,0 +1,32 @@
+.footer {
+    min-height: 150px;
+    background-color: #ffffff;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer__menu {
+    padding-left: 100px;
+}
+
+
+.footer__menu-item {
+    display: inline-block;
+}
+
+.footer__menu-link {
+    color: #1a1a1a;
+    padding-right: 70px;
+    letter-spacing: 4px;
+}
+
+.footer__social {
+    padding-right: 100px;
+}
+
+
+.footer__social img {
+    padding-left: 38px;
+}

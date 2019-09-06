@@ -23,6 +23,10 @@
     font-size: 14px;
     font-weight: 700;
     letter-spacing: 5px;
+
+    &:hover {
+        color: #f84545;
+    }
 }
 
 .header__content {
